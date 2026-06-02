@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <circle cx="40" cy="40" r="38" fill="#ffffff" opacity="0.15" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="40" y="30" font-family="Inter,sans-serif" font-size="10" font-weight="700" fill="#ffffff" text-anchor="middle">ROCHA</text>
+  <text x="40" y="44" font-family="Inter,sans-serif" font-size="7" fill="#cce4ff" text-anchor="middle">LOGÍSTICA</text>
+  <text x="40" y="60" font-size="20" text-anchor="middle">🚛</text>
+</svg>
