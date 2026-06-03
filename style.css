@@ -314,6 +314,11 @@ html, body {
 }
 
 /* ──────────── FOOTER ──────────── */
+.footer-link {
+  color: inherit;
+  text-decoration: none;
+}
+
 .footer {
   background: #ffffff;
   color: #04006a;
