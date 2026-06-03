@@ -137,6 +137,29 @@ html, body {
   line-height: 1.45;
 }
 
+/* ──────────── PHONE DISPLAY ──────────── */
+.phone-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: #ffffff;
+  border: 2px solid #25d366;
+  border-radius: 50px;
+  padding: 10px 22px;
+  margin: 20px auto 10px;
+  width: fit-content;
+  color: #1a1a1a;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.phone-display svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
 /* ──────────── WHATSAPP BTN ──────────── */
 .whatsapp-btn {
   display: flex;
@@ -150,7 +173,7 @@ html, body {
   text-decoration: none;
   border-radius: 50px;
   padding: 13px 24px;
-  margin: 20px auto 32px;
+  margin: 0 auto 32px;
   width: fit-content;
   box-shadow: 0 4px 14px rgba(37, 211, 102, 0.4);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
